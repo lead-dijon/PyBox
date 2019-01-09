@@ -1,5 +1,4 @@
 # PyBox
 Response box PyBox
 
-Hardware (Coming soon)
-Software - Embedded (Coming soon)
+"Hardware" and "Software - Embedded" are coming soon
